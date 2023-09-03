@@ -4,7 +4,7 @@
 
 
 ## 贡献者
-<a href="https://github.com/buhuizhibuyuci"> 
-  <img src="https://avatars.githubusercontent.com/u/100076891?v=4" />   
+<a href="https://github.com/buhuizhibuyuci">
+  <img src="https://avatars.githubusercontent.com/u/100076891?v=4" width="50" height="50" alt="buhuizhibuyuci"/> 
+  buhuizhibuyuci 
 </a>
-
