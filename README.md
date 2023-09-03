@@ -3,4 +3,13 @@
 ## 通过发送自然语言经过chatgpt 转化成 SQL 语言之后发送到 chat2db 执行增删改查操作
 ### username1
 
-[![https://avatars.githubusercontent.com/u/100076891?v=4](https://avatars.githubusercontent.com/u/用户id?v=4)](https://github.com/buhuizhibuyuci)  
+## 贡献者
+
+<!-- readme: collaborators,contributors -start -->
+<!-- readme: collaborators,contributors -end -->
+## 贡献者
+
+<a href="https://github.com/eryajf/learn-github/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=eryajf/learn-github" />
+</a>
+
