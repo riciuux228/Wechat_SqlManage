@@ -1,0 +1,2 @@
+# Wechat_SqlManage
+一个基于个人微信管理数据库的方案,即使不会SQL语法也能轻松操作数据库,基于chat2db
