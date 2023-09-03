@@ -1,0 +1,13 @@
+{
+  "open_ai_api_key": "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",
+  "model": "gpt-3.5-turbo-16k",
+  "proxy": "http:154.7.177.80:8787/v1",
+  "mj_token":"//mj_token需要到下面这个网址注册",
+  "mj_url": "https://midjourneyapi.zxx.im/main",
+  "search_url" : "https://v2.alapi.cn/api/music/search",
+  "music_search_token": "YOUR API TOKEN",
+  "mysql_host": "localhost",
+  "mysql_username": "root",
+  "mysql_password": "root",
+  "mysql_databases": "wechat_server"
+}
