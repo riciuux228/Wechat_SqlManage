@@ -5,6 +5,8 @@
 
 ## 贡献者
 <a href="https://github.com/buhuizhibuyuci">
-  <img src="https://avatars.githubusercontent.com/u/100076891?v=4" width="50" height="50" alt="buhuizhibuyuci"/> 
-  buhuizhibuyuci 
+  <div style="width: 50px; height: 50px; border-radius: 50%; overflow: hidden">
+    <img src="https://avatars.githubusercontent.com/u/100076891?v=4" width="50" height="50"/> 
+  </div>
+  buhuizhibuyuci  
 </a>
