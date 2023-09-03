@@ -5,6 +5,6 @@
 
 ## 贡献者
 <a href="https://github.com/buhuizhibuyuci"> 
-  <img src="[https://contrib.rocks/image?repo=eryajf/learn-github](https://avatars.githubusercontent.com/u/100076891?v=4)https://avatars.githubusercontent.com/u/100076891?v=4" />  
+  <img src="https://avatars.githubusercontent.com/u/100076891?v=4" />   
 </a>
 
